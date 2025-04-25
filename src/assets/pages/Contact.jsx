@@ -1,4 +1,4 @@
-import Pets from '../images/dog-cat.png';
+import Pets from '/src/assets/images/dog-cat.png'
 
 function Contact() {
   return (

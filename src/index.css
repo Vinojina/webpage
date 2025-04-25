@@ -19,8 +19,8 @@ body {
 
 /* Header Styles */
 .header {
-  background: #2e8b57;
-  color: white;
+  background:white;
+  color: rgb(52, 134, 41);
   padding: 1rem;
   display: flex;
   justify-content: space-between;
@@ -40,7 +40,7 @@ body {
 }
 
 .nav a {
-  color: white;
+  color: rgb(52, 134, 41);
   margin-left: 1rem;
   text-decoration: none;
 }
